@@ -22,7 +22,7 @@ Oui
 
 ## Où se situe l'école ?
 
-Zone Angré (proche du nouveau CHU) - https://goo.gl/maps/UearNBRoMXK2
+Zone Angré (proche du nouveau CHU) - [goo.gl/maps/UearNBRoMXK2](https://goo.gl/maps/UearNBRoMXK2)
 
 ## Pas de cours, pas de professeurs, c'est à dire ?
 
@@ -41,7 +41,7 @@ Le temps qu'il faut à l'étudiant. (C'est un point qu'il nous reste à definir)
 ## Comment nous contacter
 
 - info@nan.ci
-- Chat Discord -> https://discord.gg/PNKhDtZ
+- Chat Discord -> [discord.gg/PNKhDtZ](https://discord.gg/PNKhDtZ)
 
 ## Plus d'informations
 
