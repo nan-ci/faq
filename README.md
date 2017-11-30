@@ -49,9 +49,9 @@ On considère que la connaissance se trouve aujourd'hui disponible sur internet,
 L'idée est de regrouper des personnes motivés autour d'une même passion pour qu'ils travaillent ensemble autour de projets concrets.
 L'école fournie le cadre, le matériel et également des resources pédagogiques de base pour guider les élèves (vidéos, exemples, exercices types, idées de projets).
 
-## Combien de place ?
+## Combien d'élèves peut accueillir l'école ?
 
-50
+50 à la fois
 
 ## Combien de temps dure l'école ?
 
