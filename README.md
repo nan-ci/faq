@@ -11,7 +11,7 @@ Je vous redirige vers 2 petits blog posts:
 
 Les sessions Beta nous permettent de tester l'infrastructure que nous mettons en place (les logiciels, les resources pégagiques, le réseau, les machines). Cela nous permet au fur et à mesure de l'avancement du projet d'ajuster et de corriger les points faibles repérés. C'est pour cela que nous invitons par petit groupe et pendant 1 semaine, des jeunes (sans limite d'age) à venir participer volontairement à ces sessions.
 
-L'issue de ces sessions n'accordera en aucun cas une admission à l'école NaN, il faudra attendre de participer aux sessions de selection officielle une fois la prochaine rentrée annoncée.
+L'issue de ces sessions n'accordera en aucun cas une admission à l'école NaN, il faudra attendre de participer aux sessions de selection officielles une fois la prochaine rentrée annoncée.
 
 ## Quand sera la prochaine rentrée ?
 
