@@ -9,7 +9,9 @@ Je vous redirige vers 2 petits blog posts:
 
 ## En quoi consiste les sessions "Beta" ?
 
-Les sessions Beta nous permettent de tester l'infrastructure que nous mettons en place (les logiciels, les resources pégagiques, le réseau, les machines). Cela nous permet au fur et à mesure de l'avancement du projet d'ajuster et de corriger les points faibles repérés. C'est pour cela que nous invitons par petit groupe et pendant 1 semaine, des jeunes (sans limite d'age) à venir participer volontairement à ces sessions. Nous attendons des volontaires d'être motivés et disponible tout au long de la semaine (week-end inclus) avec une présence minimum de 6-7h par jour. Ils travailleront tous ensemble en autonomie sur des exercices de programmation en commençant par la base, guidés par des resources pédagogiques que nous mettrons à leur disposition.
+Les sessions Beta nous permettent de tester l'infrastructure que nous mettons en place (les logiciels, les resources pégagiques, le réseau, les machines). Cela nous permet au fur et à mesure de l'avancement du projet d'ajuster et de corriger les points faibles repérés.
+
+C'est pour cela que nous invitons par petit groupe et pendant 1 semaine, des jeunes (sans limite d'age) à venir participer volontairement à ces sessions. Nous attendons d'eux d'être motivés et disponibles tout au long de la semaine (week-end inclus) avec une présence minimum de 6-7h par jour. Ils travailleront tous ensemble en autonomie sur des exercices de programmation en commençant par la base, guidés par des resources pédagogiques que nous mettrons à leur disposition. Le matériel informatique étant fourni.
 
 L'issue de ces sessions n'accordera en aucun cas une admission à l'école NaN, il faudra attendre de participer aux sessions de selection officielles une fois la prochaine rentrée annoncée.
 
