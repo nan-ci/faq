@@ -31,6 +31,10 @@ L'école est ouverte à tous les jeunes de 18 à 25 ans sans distinctions, sans 
 Le processus d'admission sera accessible dès l'annonce de la prochaine rentrée.
 Il s'agira d'une admission sur concours en 2 temps: une épreuve en ligne d'environ 2h, sous forme de jeu de logique. La 2ème étape consiste à une semaine d'exercices au sein de l'école NaN par groupe de 50 élèves. Finalement certains critères nous permettrons d'admettre 50 élèves.
 
+## Quels seront les critères de selection ?
+
+Il nous reste à les définir plus précisément, et nous n'entrerons probablement pas dans les détails avec les inscrits. Cependant, démontrer d'une forte motivation, d'un esprit collaboratif, d'une bonne rigueur et organisation, et d'une bonne progression sur les journées d'exercices durant la semaine officielle de selection seront différents éléments qui favoriseront votre admission.
+
 ## Est-ce vraiment gratuit ?
 
 Oui
