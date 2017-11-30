@@ -1,20 +1,35 @@
 # FAQ
 Questions fréquentes (Frequent Asked Questions)
 
+## Pourquoi NaN ?
+
+Je vous redirige vers 2 petits blog posts:
+- [Pourquoi le nom NaN](https://nan.ci/2017/10/17/why/)
+- [Une Ecole atypique](https://nan.ci/2017/10/06/hello/)
+
+## En quoi consiste les sessions "Beta" ?
+
+Les sessions Beta nous permettent de tester l'infrastructure que nous mettons en place (les logiciels, les resources pégagiques, le réseau, les machines). Cela nous permet au fur et à mesure de l'avancement du projet d'ajuster et de corriger les points faibles repérés. C'est pour cela que nous invitons par petit groupe et pendant 1 semaine, des jeunes (sans limite d'age) à venir participer volontairement à ces sessions.
+
+L'issue de ces sessions n'accordera en aucun cas une admission à l'école NaN, il faudra attendre de participer aux sessions de selection officielle une fois la prochaine rentrée annoncée.
 
 ## Quand sera la prochaine rentrée ?
 
-Aucune date n'est encore fixée, nous esperons pouvoir annoncer la première rentrée pour début 2018. En attendant, vous pouvez renseignez votre email sur le site [nan.ci](https://nan.ci) bouton "Ca m'intéresse", et cocher "Je veux recevoir des emails pour suivre le projet".
+Aucune date n'est encore fixée, nous esperons pouvoir annoncer la première rentrée pour début 2018. 
 
 ## Comment s'inscrire ?
 
 Lorsque la première rentrée sera annoncée, il sera possible de s'inscrire sur [nan.ci](https://nan.ci).
-Pour l'instant, rendez-vous également sur le site pour obtenir plus de renseignements.
+En attendant, vous pouvez renseignez votre email sur le site [nan.ci](https://nan.ci) bouton "Ca m'intéresse", et cocher "Je veux recevoir des emails pour suivre le projet".
+
+## Qui peut s'inscrire ?
+
+L'école est ouverte à tous les jeunes de 18 à 25 ans sans distinctions, sans pré-requis ou connaissances en programmation nécéssaire.
 
 ## Comment être admis ?
 
 Le processus d'admission sera accessible dès l'annonce de la prochaine rentrée.
-Il s'agit d'une admission sur concours en 2 temps: une épreuve en ligne d'environ 2h, sous forme de jeu de logique. La 2ème étape consiste à une semaine d'exercices au sein de l'école NaN par groupe de 50 élèves. Finalement certains critères nous permettrons d'admettre 50 élèves.
+Il s'agira d'une admission sur concours en 2 temps: une épreuve en ligne d'environ 2h, sous forme de jeu de logique. La 2ème étape consiste à une semaine d'exercices au sein de l'école NaN par groupe de 50 élèves. Finalement certains critères nous permettrons d'admettre 50 élèves.
 
 ## Est-ce vraiment gratuit ?
 
@@ -36,7 +51,7 @@ L'école fournie le cadre, le matériel et également des resources pédagogique
 
 ## Combien de temps dure l'école ?
 
-Le temps qu'il faut à l'étudiant. (C'est un point qu'il nous reste à definir)
+Le temps qu'il faudra à l'étudiant. (C'est un point qu'il nous reste à definir)
 
 ## Comment nous contacter
 
