@@ -7,6 +7,12 @@ Je vous redirige vers 2 petits blog posts:
 - [Pourquoi le nom NaN](https://nan.ci/2017/10/17/why/)
 - [Une Ecole atypique](https://nan.ci/2017/10/06/hello/)
 
+## C'est quoi la programmation 🤔 ?
+
+[Google it](http://lmgtfy.com/?q=programmation+informatique), c'est la première leçon que vous apprendrez à NaN.
+
+Voici sinon une petite vidéo pour illustrer ce monde merveilleux -> [What Most Schools Don't Teach](https://www.youtube.com/watch?v=nKIu9yen5nc)
+
 ## En quoi consiste les sessions "Beta" ?
 
 Les sessions Beta nous permettent de tester l'infrastructure que nous mettons en place (les logiciels, les resources pégagiques, le réseau, les machines). Cela nous permet au fur et à mesure de l'avancement du projet d'ajuster et de corriger les points faibles repérés.
