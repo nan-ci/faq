@@ -80,4 +80,4 @@ Le temps qu'il faudra à l'étudiant. (C'est un point qu'il nous reste à defini
 - [facebook](https://www.facebook.com/ecolenan)
 - [faq](https://github.com/nan-ci/faq)
 - [discord live chat](https://discord.gg/PNKhDtZ)
-- un problème, une question ? -> [ouvrir une issue](https://github.com/nan-ci/faq/issues)
+- un problème, une question ? -> [ouvrir une issue](https://github.com/nan-ci/faq/issues/new)
