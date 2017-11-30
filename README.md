@@ -15,29 +15,29 @@ Voici sinon une petite vidéo pour illustrer ce monde merveilleux -> [What Most 
 
 ## En quoi consiste les sessions "Beta" ?
 
-Les sessions Beta nous permettent de tester l'infrastructure que nous mettons en place (les logiciels, les resources pégagiques, le réseau, les machines). Cela nous permet au fur et à mesure de l'avancement du projet d'ajuster et de corriger les points faibles repérés.
+Les sessions Beta nous permettent de tester l'infrastructure que nous mettons en place (les logiciels, les ressources pédagogiques, le réseau, les machines). Cela nous permet au fur et à mesure de l'avancement du projet d'ajuster et de corriger les points faibles repérés.
 
-C'est pour cela que nous invitons par petit groupe et pendant 1 semaine, des jeunes (sans limite d'age) à venir participer volontairement à ces sessions. Nous attendons d'eux d'être motivés et disponibles tout au long de la semaine (week-end inclus) avec une présence minimum de 6-7h par jour. Ils travailleront tous ensemble en autonomie sur des exercices de programmation en commençant par la base, guidés par des resources pédagogiques que nous mettrons à leur disposition. Le matériel informatique étant fourni.
+C'est pour cela que nous invitons par petit groupe et pendant 1 semaine, des jeunes (sans limite d'âge) à venir participer volontairement à ces sessions. Nous attendons d'eux d'être motivés et disponibles tout au long de la semaine (week-end inclus) avec une présence minimum de 6-7h par jour. Ils travailleront tous ensemble en autonomie sur des exercices de programmation en commençant par la base, guidés par des ressources pédagogiques que nous mettrons à leur disposition. Le matériel informatique étant fourni.
 
-L'issue de ces sessions n'accordera en aucun cas une admission à l'école NaN, il faudra attendre de participer aux sessions de selection officielles une fois la prochaine rentrée annoncée.
+L'issue de ces sessions n'accordera en aucun cas une admission à l'école NaN, il faudra attendre de participer aux sessions de sélection officielles une fois la prochaine rentrée annoncée.
 
 ## Quand sera la prochaine rentrée ?
 
-Aucune date n'est encore fixée, nous esperons pouvoir annoncer la première rentrée pour début 2018. 
+Aucune date n'est encore fixée, nous espérons pouvoir annoncer la première rentrée pour début 2018. 
 
 ## Comment s'inscrire ?
 
 Lorsque la première rentrée sera annoncée, il sera possible de s'inscrire sur [nan.ci](https://nan.ci).
-En attendant, vous pouvez renseignez votre email sur le site [nan.ci](https://nan.ci) bouton "Ca m'intéresse", et cocher "Je veux recevoir des emails pour suivre le projet".
+En attendant, vous pouvez renseigner votre email sur le site [nan.ci](https://nan.ci) bouton "Ça m'intéresse", et cocher "Je veux recevoir des emails pour suivre le projet".
 
 ## Qui peut s'inscrire ?
 
-L'école est ouverte à tous les jeunes de 18 à 25 ans sans distinctions, sans pré-requis ou connaissances en programmation nécéssaire.
+L'école est ouverte à tous les jeunes de 18 à 25 ans sans distinctions, sans pré-requis ou connaissances en programmation nécessaire.
 
 ## Comment être admis ?
 
 Le processus d'admission sera accessible dès l'annonce de la prochaine rentrée.
-Il s'agira d'une admission sur concours en 2 temps: une épreuve en ligne d'environ 2h, sous forme de jeu de logique. La 2ème étape consiste à une semaine d'exercices au sein de l'école NaN par groupe de 50 élèves. Finalement certains critères nous permettrons d'admettre 50 élèves.
+Il s'agira d'une admission sur concours en 2 temps : une épreuve en ligne d'environ 2h, sous forme de jeu de logique. La 2ème étape consiste à une semaine d'exercices au sein de l'école NaN par groupe de 50 élèves. Finalement certains critères nous permettrons d'admettre 50 élèves.
 
 ## Faut-il déjà connaitre la programmation pour réussir ?
 
@@ -45,9 +45,9 @@ Non, vous commencerez avec des exercices basiques et les notions seront abordée
 
 ## Quels languages de programmation seront abordés ?
 
-Le language sert de support pour l'apprentissage des notions clés de la programmation (logique, algorithmie..), en aucun cas nous restrindrons les élèves à l'utilisation d'un seul language. Dans un premier temps, les ressources pédagogiques (exercices, vidéos, sujets..) seront basées sur le language **JavaScript**.
+Le language sert de support pour l'apprentissage des notions clés de la programmation (logique, algorithmie...), en aucun cas nous restreindrons les élèves à l'utilisation d'un seul language. Dans un premier temps, les ressources pédagogiques (exercices, vidéos, sujets...) seront basées sur le language **JavaScript**.
 
-La langue anglaise serait également de la partie.
+La langue anglaise sera également de la partie.
 
 ## Quels seront les critères de selection ?
 
@@ -65,7 +65,7 @@ Zone Angré (proche du nouveau CHU) - [goo.gl/maps/UearNBRoMXK2](https://goo.gl/
 
 On considère que la connaissance se trouve aujourd'hui disponible sur internet, et également dans l'esprit des gens.
 L'idée est de regrouper des personnes motivés autour d'une même passion pour qu'ils travaillent ensemble autour de projets concrets.
-L'école fournie le cadre, le matériel et également des resources pédagogiques de base pour guider les élèves (vidéos, exemples, exercices types, idées de projets).
+L'école fournie le cadre, le matériel et également des ressources pédagogiques de base pour guider les élèves (vidéos, exemples, exercices types, idées de projets).
 
 ## Combien d'élèves peut accueillir l'école ?
 
