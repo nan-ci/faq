@@ -43,6 +43,12 @@ Il s'agira d'une admission sur concours en 2 temps: une épreuve en ligne d'envi
 
 Non, vous commencerez avec des exercices basiques et les notions seront abordées de manière progressive mais à un rythme très soutenu. Une connaissance préalable de l'outil informatique et de la langue anglaise est tout de même conseillée.
 
+## Quels languages de programmation seront abordés ?
+
+Le language sert de support pour l'apprentissage des notions clés de la programmation (logique, algorithmie..), en aucun cas nous restrindrons les élèves à l'utilisation d'un seul language. Dans un premier temps, les ressources pédagogiques (exercices, vidéos, sujets..) seront basées sur le language **JavaScript**.
+
+La langue anglaise serait également de la partie.
+
 ## Quels seront les critères de selection ?
 
 Il nous reste à les définir plus précisément, et nous n'entrerons probablement pas dans les détails avec les inscrits. Cependant, démontrer d'une forte motivation, d'un esprit collaboratif, d'une bonne rigueur et organisation, et d'une bonne progression sur les journées d'exercices durant la semaine officielle de selection seront différents éléments qui favoriseront votre admission.
