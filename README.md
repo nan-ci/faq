@@ -3,9 +3,9 @@ Questions fréquentes (Frequent Asked Questions)
 
 ## Pourquoi NaN ?
 
-Je vous redirige vers 2 petits blog posts:
+Je vous redirige vers 2 petits blog posts :
 - [Pourquoi le nom NaN](https://nan.ci/2017/10/17/why/)
-- [Une Ecole atypique](https://nan.ci/2017/10/06/hello/)
+- [Une École atypique](https://nan.ci/2017/10/06/hello/)
 
 ## C'est quoi la programmation 🤔 ?
 
