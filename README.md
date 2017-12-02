@@ -30,11 +30,11 @@ En complément, voici une petite vidéo pour illustrer ce monde merveilleux -> [
 ## Nous rejoindre 
 
 **Conditions d'accès**  
-L'école est ouverte à tous les jeunes de 18 à 25 ans sans pré-requis ou connaissances en programmation nécessaires. Il est tout de même conseillé d'avoir des notions d'anglais et bien sûr, de savoir se servir d'une souris et d'un clavier.
+L'école est ouverte à tous les jeunes de 18 à 25 ans sans pré-requis ou connaissances en programmation nécessaires.
 
 **Être admissible**  
 L'admission à l'école se déroule en deux étapes.  
-La 1ère étape est une épreuve en ligne d'environ 2h sous forme de jeu de logique. Si cette épreuve est réussie, tu passes à la 2ème étape. Il s'agit d'une semaine d'immersion à l'école NaN par groupe de 50 candidats. Tous les jours pendant une semaine, tu auras des exercices et des projets informatiques à faire en collaboration avec les autres candidats à NaN. La semaine d'immersion part de zéro, aborde les notions de manière progressive mais à un rythme très soutenu, elle ne demande donc aucune connaissance préalable mais simplement une forte motivation. Il est tout de même conseillé de savoir utiliser l'outil informatique et d'avoir des notions d'anglais.  
+La 1ère étape est une épreuve en ligne d'environ 2h sous forme de jeu de logique. Si cette épreuve est réussie, tu passes à la 2ème étape. Il s'agit d'une semaine d'immersion à l'école NaN par groupe de 50 candidats. Tous les jours pendant une semaine, tu auras des exercices et des projets informatiques à faire en collaboration avec les autres candidats à NaN. La semaine d'immersion part de zéro, aborde les notions de manière progressive mais à un rythme très soutenu, elle ne demande donc aucune connaissance préalable mais simplement une forte motivation. Il est tout de même conseillé d'avoir des notions d'anglais et bien sûr, de savoir se servir d'une souris et d'un clavier.
 
 Cette semaine d'immersion nous permet d'identifier les personnes les plus motivées et de considérer l'aptitude des futurs étudiants pour le développement informatique. Cette semaine d'immersion va décider de ton admission définitive à l'école. 
 
