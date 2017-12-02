@@ -30,7 +30,7 @@ En complément, voici une petite vidéo pour illustrer ce monde merveilleux -> [
 ## Nous rejoindre 
 
 **Conditions d'accès**  
-L'école est ouverte à tous les jeunes de 18 à 25 ans sans pré-requis ou connaissances en programmation nécessaires. Il est tout de même conseillé de savoir utiliser l'outil informatique et d'avoir des notions d'anglais.
+L'école est ouverte à tous les jeunes de 18 à 25 ans sans pré-requis ou connaissances en programmation nécessaires. Il est tout de même conseillé d'avoir des notions d'anglais et bien sûr, de savoir se servir d'une souris et d'un clavier.
 
 **Être admissible**  
 L'admission à l'école se déroule en deux étapes.  
@@ -38,7 +38,7 @@ La 1ère étape est une épreuve en ligne d'environ 2h sous forme de jeu de logi
 
 Cette semaine d'immersion nous permet d'identifier les personnes les plus motivées et de considérer l'aptitude des futurs étudiants pour le développement informatique. Cette semaine d'immersion va décider de ton admission définitive à l'école. 
 
-Finalement, nous sélectionnerons 50 étudiants admissibles à rejoindre officiellement le cursus de NaN en se basant sur des critères qu'il nous reste encore à définir. Démontrer d'une forte motivation, d'un esprit collaboratif, d'une bonne rigueur et organisation et d'une bonne progression sur les journées d'exercices durant la semaine d'immersion seront toutefois des éléments qui favoriseront ton admission.
+Finalement, nous sélectionnerons 50 étudiants pour rejoindre officiellement le cursus de NaN en se basant sur des critères qu'il nous reste encore à définir. Démontrer d'une forte motivation, d'un esprit collaboratif, d'une bonne rigueur et organisation et d'une bonne progression sur les journées d'exercices durant la semaine d'immersion seront toutefois des éléments qui favoriseront ton admission.
 
 **Comment s'inscrire ?**  
 Lorsque la première rentrée officielle sera annoncée, il sera possible de s'inscrire sur [nan.ci](https://nan.ci).
