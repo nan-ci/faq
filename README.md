@@ -19,7 +19,7 @@ Dans le but d'apprendre les notions clés de la programmation, les ressources p�
 Bien sûr, nous ne restreindrons pas les étudiants à l'utilisation d'un seul langage. 
 
 **Durée du cursus**  
-Chaque étudiant progressant à son propre rythme, l'école l'accompagnera le temps qu'il lui sera nécessaire. C'est un point qu'il nous reste à définir et sur lequel nous travaillons encore. 
+Chaque étudiant progressant à son propre rythme, l'école l'accompagnera le temps qu'il lui sera nécessaire. Cependant c'est un point qu'il nous reste à clarifier et sur lequel nous travaillons encore. 
 
 ## C'est quoi la programmation ?
 
