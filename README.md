@@ -70,7 +70,7 @@ Oui
 
 ## Où se situe l'école ?
 
-Zone Angré (proche du nouveau CHU) - [goo.gl/maps/UearNBRoMXK2](https://goo.gl/maps/UearNBRoMXK2)
+Zone Cocody Angré (proche du nouveau CHU) - [goo.gl/maps/UearNBRoMXK2](https://goo.gl/maps/UearNBRoMXK2)
 
 ## Nous contacter
 
@@ -81,6 +81,6 @@ Zone Angré (proche du nouveau CHU) - [goo.gl/maps/UearNBRoMXK2](https://goo.gl/
 
 - [nan.ci](https://nan.ci)
 - [facebook](https://www.facebook.com/ecolenan)
-- [faq](https://github.com/nan-ci/faq)
+- [faq](https://nan.ci/faq)
 - [discord live chat](https://discord.gg/PNKhDtZ)
 - un problème, une question ? -> [ouvrir une issue](https://github.com/nan-ci/faq/issues/new)
