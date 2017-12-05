@@ -4,54 +4,65 @@ Questions fréquentes (Frequent Asked Questions)
 ## Pourquoi NaN ?
 
 Je vous redirige vers 2 petits blog posts :
-- [Pourquoi le nom NaN](https://nan.ci/2017/10/17/why/)
 - [Une École atypique](https://nan.ci/2017/10/06/hello/)
+- [Pourquoi le nom NaN](https://nan.ci/2017/10/17/why/)
 
-## C'est quoi la programmation 🤔 ?
+## L'école
+
+L'école NaN est une école de programmation informatique gratuite, atypique et open-source.  
+Pas de cours, pas de professeurs, ce sont les étudiants eux-mêmes qui sont responsables de leur apprentissage et de celui de leurs camarades. Pour progresser, les étudiants devront s'appuyer sur la force du groupe, savoir partager les informations et être à la fois formateur et apprenant. Chacun est responsable de sa réussite et de celle de ses camarades.  
+
+L'école fournit le cadre, le matériel informatique et les ressources pédagogiques pour guider les étudiants (vidéos tutoriels, exercices et idées de projets). 
+
+**Le programme**  
+Dans le but d'apprendre les notions clés de la programmation, les ressources pédagogiques sont dans un premier temps basées sur le langage **JavaScript**.  
+Bien sûr, nous ne restreindrons pas les étudiants à l'utilisation d'un seul langage. 
+
+**Durée du cursus**  
+Chaque étudiant progressant à son propre rythme, l'école l'accompagnera le temps qu'il lui sera nécessaire. Cependant c'est un point qu'il nous reste à clarifier et sur lequel nous travaillons encore. 
+
+## C'est quoi la programmation ?
 
 [Google it](http://lmgtfy.com/?q=programmation+informatique), c'est la première leçon que vous apprendrez à NaN.
 
-Voici sinon une petite vidéo pour illustrer ce monde merveilleux -> [What Most Schools Don't Teach](https://www.youtube.com/watch?v=nKIu9yen5nc)
+En complément, voici une petite vidéo pour illustrer ce monde merveilleux -> [What Most Schools Don't Teach](https://www.youtube.com/watch?v=nKIu9yen5nc)
 
-## En quoi consiste les sessions "Beta" ?
+## Nous rejoindre 
 
-Les sessions Beta nous permettent de tester l'infrastructure que nous mettons en place (les logiciels, les ressources pédagogiques, le réseau, les machines). Cela nous permet au fur et à mesure de l'avancement du projet d'ajuster et de corriger les points faibles repérés.
+**Conditions d'accès**  
+L'école est ouverte à tous les jeunes de 18 à 25 ans sans pré-requis ou connaissances en programmation nécessaires.
 
-C'est pour cela que nous invitons par petit groupe et pendant 1 semaine, des jeunes (sans limite d'âge) à venir participer volontairement à ces sessions. Nous attendons d'eux d'être motivés et disponibles tout au long de la semaine (week-end inclus) avec une présence minimum de 6-7h par jour. Ils travailleront tous ensemble en autonomie sur des exercices de programmation en commençant par la base, guidés par des ressources pédagogiques que nous mettrons à leur disposition. Le matériel informatique étant fourni.
+**Être admissible**  
+L'admission à l'école se déroule en deux étapes.  
+La 1ère étape est une épreuve en ligne d'environ 2h sous forme de jeu de logique. Si cette épreuve est réussie, tu passes à la 2ème étape. Il s'agit d'une semaine d'immersion à l'école NaN par groupe de 50 candidats. Tous les jours pendant une semaine, tu auras des exercices et des projets informatiques à faire en collaboration avec les autres candidats à NaN. La semaine d'immersion part de zéro, aborde les notions de manière progressive mais à un rythme très soutenu, elle ne demande donc aucune connaissance préalable mais simplement une forte motivation. Il est tout de même conseillé d'avoir des notions d'anglais et bien sûr, de savoir se servir d'une souris et d'un clavier.
 
-L'issue de ces sessions n'accordera en aucun cas une admission à l'école NaN, il faudra attendre de participer aux sessions de sélection officielles une fois la prochaine rentrée annoncée.
+Cette semaine d'immersion nous permet d'identifier les personnes les plus motivées et de considérer l'aptitude des futurs étudiants pour le développement informatique. Cette semaine d'immersion va décider de ton admission définitive à l'école. 
 
-## Quand sera la prochaine rentrée ?
+Finalement, nous sélectionnerons 50 étudiants pour rejoindre officiellement le cursus de NaN en se basant sur des critères qu'il nous reste encore à définir. Démontrer d'une forte motivation, d'un esprit collaboratif, d'une bonne rigueur et organisation et d'une bonne progression sur les journées d'exercices durant la semaine d'immersion seront toutefois des éléments qui favoriseront ton admission.
 
-Aucune date n'est encore fixée, nous espérons pouvoir annoncer la première rentrée pour début 2018. 
+**Comment s'inscrire ?**  
+Lorsque la première rentrée officielle sera annoncée, il sera possible de s'inscrire sur [nan.ci](https://nan.ci).
+En attendant, vous pouvez renseigner votre email sur le site [nan.ci](https://nan.ci) en cliquant sur le bouton "Ça m'intéresse" et cocher la case "Je veux recevoir des emails pour suivre le projet".
 
-## Comment s'inscrire ?
+**Quand sera la prochaine rentrée ?**  
+Aucune date n'est encore fixée, nous espérons pouvoir annoncer la première rentrée officielle pour début 2018. 
 
-Lorsque la première rentrée sera annoncée, il sera possible de s'inscrire sur [nan.ci](https://nan.ci).
-En attendant, vous pouvez renseigner votre email sur le site [nan.ci](https://nan.ci) bouton "Ça m'intéresse", et cocher "Je veux recevoir des emails pour suivre le projet".
+## Les sessions "Beta"  
 
-## Qui peut s'inscrire ?
+Les sessions "Beta" sont des semaines d'immersion test. Elles permettent de tester l'infrastructure que nous mettons en place (les logiciels, les ressources pédagogiques, le réseau et les machines). Cela permet de corriger, d'ajuster et d'améliorer les différents éléments de l'infrastructure tout au long de l'avancement du projet avant de lancer une rentrée officielle.  
 
-L'école est ouverte à tous les jeunes de 18 à 25 ans sans distinctions, sans pré-requis ou connaissances en programmation nécessaire.
+La semaine d'immersion test est en réalité une belle opportunité : une semaine passée dans les locaux de NaN à découvrir la méthode d'apprentissage [peer-to-peer](https://fr.wikipedia.org/wiki/Enseignement_entre_pairs), rencontrer des personnes partageant la même passion et bien sûr apprendre les notions de base de la programmation qui te permettront d'acquérir la bonne méthode pour poursuivre ton apprentissage chez toi.  
 
-## Comment être admis ?
+Il s'agit d'une semaine d'immersion test à l'école NaN par petits groupes. Tous les jours pendant une semaine, week-end compris, tu auras des exercices et des projets informatiques à faire en collaboration avec les autres volontaires. Les exercices partent de zéro et ne demandent donc aucune connaissance préalable. Il est tout de même conseillé de savoir utiliser l'outil informatique et d'avoir des notions d'anglais. Nous attendons de toi d'être très motivé et disponible tous les jours de cette semaine avec une présence minimum de 6-7h par jour.  
 
-Le processus d'admission sera accessible dès l'annonce de la prochaine rentrée.
-Il s'agira d'une admission sur concours en 2 temps : une épreuve en ligne d'environ 2h, sous forme de jeu de logique. La 2ème étape consiste à une semaine d'exercices au sein de l'école NaN par groupe de 50 élèves. Finalement certains critères nous permettrons d'admettre 50 élèves.
+L'école fournit le cadre, le matériel informatique et les ressources pédagogiques pour guider les étudiants (vidéos tutoriels, exercices et idées de projets). 
 
-## Faut-il déjà connaitre la programmation pour réussir ?
+**Conditions d'accès**  
+Les sessions "Beta" sont ouvertes à toute personne sans limite d'âge souhaitant participer volontairement à une semaine d'immersion test.
 
-Non, vous commencerez avec des exercices basiques et les notions seront abordées de manière progressive mais à un rythme très soutenu. Une connaissance préalable de l'outil informatique et de la langue anglaise est tout de même conseillée.
-
-## Quels languages de programmation seront abordés ?
-
-Le language sert de support pour l'apprentissage des notions clés de la programmation (logique, algorithmie...), en aucun cas nous restreindrons les élèves à l'utilisation d'un seul language. Dans un premier temps, les ressources pédagogiques (exercices, vidéos, sujets...) seront basées sur le language **JavaScript**.
-
-La langue anglaise sera également de la partie.
-
-## Quels seront les critères de selection ?
-
-Il nous reste à les définir plus précisément, et nous n'entrerons probablement pas dans les détails avec les inscrits. Cependant, démontrer d'une forte motivation, d'un esprit collaboratif, d'une bonne rigueur et organisation, et d'une bonne progression sur les journées d'exercices durant la semaine officielle de selection seront différents éléments qui favoriseront votre admission.
+**Attention !**  
+L'issue d'une session "Beta" n'accordera en aucun cas une admission à l'école NaN. Il faudra attendre de participer à une semaine d'immersion classique une fois la prochaine rentrée officielle annoncée. 
+Nous conseillons aux personnes souhaitant rejoindre le cursus à NaN de ne pas s'inscrire aux sessions "Beta" mais d'attendre de participer à une semaine d'immersion officielle une fois la prochaine rentrée annoncée.
 
 ## Est-ce vraiment gratuit ?
 
@@ -59,23 +70,9 @@ Oui
 
 ## Où se situe l'école ?
 
-Zone Angré (proche du nouveau CHU) - [goo.gl/maps/UearNBRoMXK2](https://goo.gl/maps/UearNBRoMXK2)
+Zone Cocody Angré (proche du nouveau CHU) - [goo.gl/maps/UearNBRoMXK2](https://goo.gl/maps/UearNBRoMXK2)
 
-## Pas de cours, pas de professeurs, c'est à dire ?
-
-On considère que la connaissance se trouve aujourd'hui disponible sur internet, et également dans l'esprit des gens.
-L'idée est de regrouper des personnes motivés autour d'une même passion pour qu'ils travaillent ensemble autour de projets concrets.
-L'école fournie le cadre, le matériel et également des ressources pédagogiques de base pour guider les élèves (vidéos, exemples, exercices types, idées de projets).
-
-## Combien d'élèves peut accueillir l'école ?
-
-50 à la fois
-
-## Combien de temps dure l'école ?
-
-Le temps qu'il faudra à l'étudiant. (C'est un point qu'il nous reste à definir)
-
-## Comment nous contacter
+## Nous contacter
 
 - info@nan.ci
 - Chat Discord -> [discord.gg/PNKhDtZ](https://discord.gg/PNKhDtZ)
