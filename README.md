@@ -1,4 +1,4 @@
-# FAQ
+# faq
 Questions fréquentes (Frequent Asked Questions)
 
 ## Pourquoi NaN ?
